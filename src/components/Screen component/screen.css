@@ -1,0 +1,22 @@
+.screen{
+  width:85%;
+  margin:0 auto;
+  border:2px solid grey;
+  min-height: 50px;
+  display: flex;
+  flex-direction: column;
+  padding:10px;
+  font-family: 'Orbitron', sans-serif;
+  background: #4C5446;
+  color: #000;
+}
+.screen p{
+  height: 16px;
+  width: 100%;
+  overflow: hidden;
+}
+.screen h2{
+  height: 32px;
+  width: 100%;
+  overflow: hidden;
+}

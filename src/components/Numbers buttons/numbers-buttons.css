@@ -1,0 +1,9 @@
+.number-buttons{
+  display:grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: var(--gap);
+  /* justify-items: center; */
+}
+.number-buttons button{
+  background: var(--number-btn);
+}

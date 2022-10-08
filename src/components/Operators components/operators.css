@@ -1,0 +1,11 @@
+.operator-buttons{
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap:var(--gap);
+  /* height: 100%; */
+  /* margin-left: var(--gap); */
+}
+.operator-buttons button{
+  background: var(--operator-btn);
+
+}
